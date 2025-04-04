@@ -19,8 +19,6 @@ namespace poe_part1
 
         public string getResponse(string input, user user)
         {
-
-
             input = input.ToLower();
 
             if (input.Contains("hello") || input.Contains("hi"))

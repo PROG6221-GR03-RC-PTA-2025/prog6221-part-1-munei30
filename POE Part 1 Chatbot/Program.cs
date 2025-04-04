@@ -16,7 +16,6 @@ namespace poe_part1
         {
             //adding ASCII art
             Colorful.Console.WriteAscii("Rendz CyberBot!", Color.Yellow);
-
             //adding voice
             string filePath = "marendaVoice.WAV";
 
@@ -26,15 +25,12 @@ namespace poe_part1
                 {
                     player.Load();
                     player.PlaySync();
-                   
                 }
                 catch (Exception ex)
                 {
                     System.Console.WriteLine("Error: " + ex.Message);
                 }
             }
-
-            
             System.Console.Write("Please enter your name: ");
             string userName = System.Console.ReadLine();
             user userObj = new user();
