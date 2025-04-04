@@ -19,11 +19,11 @@ namespace poe_part1
         }
         public void Chat()
         {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("=====================================================================================");
+            Console.WriteLine("Welcome to the chatbot");
+            Console.WriteLine("=====================================================================================");
 
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write("chatbot: ");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("Hello " + user.name + " Welcome to the chatbot");
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("CHAT STARTED");

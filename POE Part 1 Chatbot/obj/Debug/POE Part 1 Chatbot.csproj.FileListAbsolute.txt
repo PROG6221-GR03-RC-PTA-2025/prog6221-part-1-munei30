@@ -5,3 +5,5 @@ C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 
 C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\bin\Debug\POE Part 1 Chatbot.pdb
 C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\obj\Debug\POE Part 1 Chatbot.exe
 C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\obj\Debug\POE Part 1 Chatbot.pdb
+C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\bin\Debug\Colorful.Console.dll
+C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\obj\Debug\POE Part.49ABF068.Up2Date
