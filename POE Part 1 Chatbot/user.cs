@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace POE_Part_1_Chatbot
+namespace poe_part1
 {
     internal class user
     {
+        public string name { get; set; }
     }
 }

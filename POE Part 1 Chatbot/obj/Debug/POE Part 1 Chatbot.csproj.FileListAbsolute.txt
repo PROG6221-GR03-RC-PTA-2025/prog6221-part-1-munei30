@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\obj\Debug\POE Part 1 Chatbot.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\obj\Debug\POE Part 1 Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\bin\Debug\POE Part 1 Chatbot.exe.config
+C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\bin\Debug\POE Part 1 Chatbot.exe
+C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\bin\Debug\POE Part 1 Chatbot.pdb
+C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\obj\Debug\POE Part 1 Chatbot.exe
+C:\Users\RC_Student_lab\Desktop\Final Part 1\prog6221-part-1-munei30\POE Part 1 Chatbot\obj\Debug\POE Part 1 Chatbot.pdb
