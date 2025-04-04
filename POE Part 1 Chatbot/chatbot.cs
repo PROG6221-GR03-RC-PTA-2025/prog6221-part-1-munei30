@@ -8,7 +8,14 @@ namespace poe_part1
 {
     internal class chatbot
     {
-        public Dictionary<string, string> chatbotQA = new Dictionary<string, string> { { "", "" } };
+        public Dictionary<string, string> chatbotQA = new Dictionary<string, string> {
+            {"what is password safety", "Password safety involves creating strong, unique passwords and using methods like multi-factor authentication to protect your accounts." },
+            {"what does password safety do","It secures your accounts by preventing unauthorized access through strong password practices and extra security layers." },
+            {"what is phishing","Phishing is a cyberattack where attackers impersonate legitimate organizations to steal personal information, often through fake emails or websites."},
+            {"what does phishing do","It tricks individuals into revealing sensitive data like passwords or financial details, leading to identity theft or fraud." },
+            {"what is safe browsing","Safe browsing refers to practices that protect your privacy and security while navigating the internet, such as avoiding harmful websites and using secure connections." },
+            {"what does safe browsing do","It helps prevent exposure to malware, phishing, and other online threats by promoting secure and cautious web browsing habits." }
+        };
 
         public string getResponse(string input, user user)
         {

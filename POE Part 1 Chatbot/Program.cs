@@ -14,10 +14,11 @@ namespace poe_part1
     {
         static void Main(string[] args)
         {
+            //adding ASCII art
+            Colorful.Console.WriteAscii("Rendz CyberBot!", Color.Yellow);
 
             //adding voice
             string filePath = "marendaVoice.WAV";
-
 
             using (SoundPlayer player = new SoundPlayer(filePath))
             {
@@ -25,7 +26,7 @@ namespace poe_part1
                 {
                     player.Load();
                     player.PlaySync();
-                    System.Console.WriteLine("Audio playback completed.");
+                   
                 }
                 catch (Exception ex)
                 {
@@ -33,15 +34,16 @@ namespace poe_part1
                 }
             }
 
-            //adding ASCII art
-            Colorful.Console.WriteAscii("Rendz CyberBot!", Color.Yellow);
+            
             System.Console.Write("Please enter your name: ");
             string userName = System.Console.ReadLine();
             user userObj = new user();
             chatbot chatbotObj = new chatbot();
             userInteraction interactionObj = new userInteraction(chatbotObj, userObj);
             interactionObj.Chat();
-
+            System.Console.ForegroundColor = ConsoleColor.Blue;
+            System.Console.WriteLine("=====================================================================================");
+            System.Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }
